@@ -1,33 +1,21 @@
 # Proyecto de Grupos
 
-## Descripción
-Este es un proyecto genérico para la gestión de grupos. Permite crear, editar y administrar grupos de usuarios o elementos de manera sencilla.
+MPV MENTE EN CALMA 
 
-## Características
-- Creación de grupos
-- Agregar miembros a grupos
-- Editar información de grupos
-- Eliminar grupos
 
-## Instalación
-1. Clona el repositorio:
-   ```
-   git clone https://github.com/tu-usuario/proyecto-grupos.git
-   ```
-2. Instala las dependencias:
-   ```
-   npm install  # o pip install -r requirements.txt si es Python
-   ```
+   #Problema:
+Muchas veces como estudiante no te sientes cómodo hablando personalmente con tu psicólogo, te incomoda y terminas incomodado y con las mismas frustraciones y pensamientos que no le contaste a tu psicóloga. Por eso se creó la MPV “Mente en Calma”. 
+	
+   #Solución:
+La MPV “Mente en Calma”. trata de un chat anónimo donde el usuario puede tener una conversación con un profesional, (siendo los pasantes del área de psicología), que al mismo tiempo de que ayudan a los estudiantes también puedan realizar sus pasantías, esto será un benéfico doble, esta MPV tendrá un plus, teniendo también un chat extra donde la persona podrá hablar con otros usuarios, permitiendo relajarse formar amistades, distraerse y despejar la mente hablando con otros usuarios.
+	
+   #Características:
+1.	Un chat completamente anónimo donde pueden estar tranquilos.
+2.	Cuenta con profesionales que te van ayudar en todo momento. 
+3.	Un segundo chat donde puedes hablar con otros usuarios para formar amistades y relajarse.  
 
-## Uso
-1. Ejecuta la aplicación:
-   ```
-   npm start  # o python app.py
-   ```
-2. Abre tu navegador en `http://localhost:3000` (o el puerto correspondiente).
+	#Que no va hacer:
+Un quizz psicológico donde solo respondes formularios.
 
-## Contribución
-Si deseas contribuir, por favor crea un pull request con tus cambios.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT.
+	#Impacto Social:
+Crea confianza a los usuarios que les incomoda ir al psicólogo, les permite abrirse, hablar y buscar ayuda sintiéndose más tranquilos y seguros, y, lo más importante con profesionales. Además, te ofrece un lugar donde podrás distraer tu mente creando nuevos vínculos, mediante un chat adicional donde puedes interactuar con los demás usuarios. 
