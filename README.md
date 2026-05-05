@@ -19,3 +19,39 @@ Un quizz psicológico donde solo respondes formularios.
 
 	#Impacto Social:
 Crea confianza a los usuarios que les incomoda ir al psicólogo, les permite abrirse, hablar y buscar ayuda sintiéndose más tranquilos y seguros, y, lo más importante con profesionales. Además, te ofrece un lugar donde podrás distraer tu mente creando nuevos vínculos, mediante un chat adicional donde puedes interactuar con los demás usuarios. 
+
+
+
+//INTERFASE DE PROYECTO
+
+interface Estudiante {
+GrupoEstudiantil: string
+Edad: number
+Correo: string | number //Se usara para el inicio de sesion 
+
+}    
+
+interface Psicologo {
+Nombre: string
+Especialidad: string
+Experiencia: number
+CodigoCarnet: number //Clave de acceso que se le dara a los estudiantes de psicologia que vayan hacer su pasantias en la plataforma.
+Cedula: number
+Correo: string //Se usara para el inicio de sesion
+
+}
+let estudiantes: Estudiante={
+    GrupoEstudiantil: "Facultad de Psicologia",
+    Edad: 20,
+    Correo: "correo@g,mail.com",
+}
+
+let psicologos: Psicologo={
+    Nombre: "Dr. Pérez",
+    Especialidad: "Psicología Clínica",
+    Experiencia: 10,
+    CodigoCarnet: 12345,
+    Cedula: 123456789,
+    Correo: "dr.perez@universidad.com"
+
+}    
