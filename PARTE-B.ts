@@ -25,7 +25,7 @@ const sesionesMenteEnCalma: SesionChat[] = [
     mensajesNoLeidos: 2,
     requiereAtencionInmediata: true,
     etiquetasClinicas: ["ansiedad", "urgente"]
-  },// ESTA PRIMERA PARTE FUE HECHA POR BENJAMIN
+  },
   {
     id: "0220",
     ultimoMensaje: "¿Podemos agendar para mañana?",
